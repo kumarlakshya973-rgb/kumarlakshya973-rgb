@@ -1,17 +1,40 @@
-## Hi there 👋
+## Hey there 👋
 
-<!--
-I am a student from the streets of hyderabad, India and I love building things.
+I'm **Lakshya**, a student from Hyderabad, India 🇮🇳  
+I love building cool things, especially related to **AI and automation**.
 
-Here are some ideas I want to build:
+---
 
-- 🔭 I’m currenty working on making a personal AI assitant using python and API Keys.
-- 🌱 I’m currently learning python for AI/ML purposes
-- 👯 I’m looking to collaborate on AI/ML projects like chatbots or decision making systems.
-- 🤔 I’m looking for help with learning AI/ML with correct guidance
-- 📫 How to reach me: EMAIL!
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
-    - I am in 10th standard 
-    - I even edit videos using after effects(particularly AMV's)
--->
+### 🚀 What I'm Working On
+- Building my own **AI assistant** using Python + APIs.
+- Learning the fundamentals of **AI/ML and data science**.
+
+---
+
+### 👯 Looking To Collaborate On
+- AI/ML projects like:
+  - Chatbots 🤖  
+  - Decision systems  
+  - Automation tools
+
+---
+
+### 🎯 Goals
+- Get proper guidance in **Machine Learning**
+- Become great at programming & problem-solving  
+
+---
+
+### 📫 Reach Me
+- Email: *(add your email here)*
+
+---
+
+### ⚡ Fun Facts About Me
+- I'm currently in **10th grade**
+- I edit videos (mostly AMVs) using **Adobe After Effects**
+- I love experimenting with coding, space tech, and robotics 🛰️
+
+---
+
+Thanks for stopping by! ✨
