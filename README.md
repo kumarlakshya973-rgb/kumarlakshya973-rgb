@@ -1,16 +1,17 @@
 ## Hi there 👋
 
 <!--
-**kumarlakshya973-rgb/kumarlakshya973-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student from the streets of hyderabad, India and I love building things.
 
-Here are some ideas to get you started:
+Here are some ideas I want to build:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currenty working on making a personal AI assitant using python and API Keys.
+- 🌱 I’m currently learning python for AI/ML purposes
+- 👯 I’m looking to collaborate on AI/ML projects like chatbots or decision making systems.
+- 🤔 I’m looking for help with learning AI/ML with correct guidance
+- 📫 How to reach me: EMAIL!
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: 
+    - I am in 10th standard 
+    - I even edit videos using after effects(particularly AMV's)
 -->
