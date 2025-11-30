@@ -26,7 +26,7 @@ I love building cool things, especially related to **AI and automation**.
 ---
 
 ### 📫 Reach Me
-- Email: *(add your email here)*
+- Email: kumarlakshya973@gmail.com
 
 ---
 
